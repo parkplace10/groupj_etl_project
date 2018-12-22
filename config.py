@@ -1,1 +1,1 @@
-password = 'Bootcamp.pbh.1991!'
+password = '<enter your password for local mysql>'
