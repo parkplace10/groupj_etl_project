@@ -1,321 +1,321 @@
-,0,1,Position,2
-0,Patrick Mahomes, KC QB,QB,
-1,Andrew Luck, Ind QB,QB,
-2,Russell Wilson, Sea QB,QB,
-3,Aaron Rodgers, GB QB,QB,
-4,Dak Prescott, Dal QB,QB,
-5,Drew Brees, NO QB,QB,
-6,Jared Goff, LAR QB,QB,
-7,Ben Roethlisberger, Pit QB,QB,
-8,Matt Ryan, Atl QB,QB,
-9,Mitchell Trubisky, Chi QB,QB,
-10,Deshaun Watson, Hou QB,QB,
-11,Philip Rivers, LAC QB,QB,
-12,Jameis Winston, TB QB,QB,
-13,Baker Mayfield, Cle QB,QB,
-14,Kirk Cousins, Min QB,QB,
-15,Josh Allen, Buf QB,QB,
-16,Tom Brady, NE QB,QB,
-17,Nick Foles, Phi QB,QB,
-18,Ryan Tannehill, Mia QB,QB,
-19,Lamar Jackson, Bal QB,QB,
-20,Case Keenum, Den QB,QB,
-21,Sam Darnold, NYJ QB,QB,
-22,Jeff Driskel, Cin QB,QB,
-23,Eli Manning, NYG QB,QB,
-24,Derek Carr, Oak QB,QB,
-25,Marcus Mariota, Ten QB,QB,
-26,Nick Mullens, SF QB,QB,
-27,Taylor Heinicke, Car QB,QB,
-28,Matthew Stafford, Det QB Q,QB,
-29,Cody Kessler, Jax QB,QB,
-30,Josh Johnson, Wsh QB,QB,
-31,Josh Rosen, Ari QB,QB,
-32,Taysom Hill, NO QB,QB,
-33,Joe Flacco, Bal QB,QB,
-34,Jacoby Brissett, Ind QB,QB,
-35,Joshua Dobbs, Pit QB,QB,
-36,DeShone Kizer, GB QB,QB,
-37,Sean Mannion, LAR QB,QB,
-38,Ryan Fitzpatrick, TB QB,QB,
-39,Teddy Bridgewater, NO QB,QB,
-0,Cooper Rush, Dal QB,QB,
-1,Brett Hundley, Sea QB,QB,
-2,Chase Daniel, Chi QB,QB,
-3,Matt Schaub, Atl QB,QB,
-4,Tyrod Taylor, Cle QB,QB,
-5,Geno Smith, LAC QB,QB,
-6,Nate Sudfeld, Phi QB,QB,
-7,Kevin Hogan, Den QB,QB,
-8,Trevor Siemian, Min QB,QB,
-9,Brock Osweiler, Mia QB,QB,
-10,Brian Hoyer, NE QB,QB,
-11,Josh McCown, NYJ QB,QB,
-12,Brandon Weeden, Hou QB,QB,
-13,Alex Tanney, NYG QB,QB,
-14,Mike Glennon, Ari QB,QB,
-15,Matt Barkley, Buf QB,QB,
-16,AJ McCarron, Oak QB,QB,
-17,Tom Savage, Cin QB,QB,
-18,Matt Cassel, Det QB,QB,
-19,Mark Sanchez, Wsh QB,QB,
-20,C.J. Beathard, SF QB,QB,
-21,Blake Bortles, Jax QB,QB,
-22,Blaine Gabbert, Ten QB,QB,
-23,Chad Henne, KC QB,QB,
-24,Shaun Hill, Min QB,QB,
-25,Carson Palmer, FA QB,QB,
-26,Alex Smith*, Wsh QB IR,QB,
-27,Derek Anderson, Buf QB,QB,
-28,Jay Cutler, FA QB,QB,
-29,Kellen Clemens, LAC QB,QB,
-30,Charlie Whitehurst, Cle QB Q,QB,
-31,Drew Stanton, Cle QB,QB,
-32,Matt Moore, FA QB,QB,
-33,Josh Freeman, Ind QB,QB,
-34,Sam Bradford, Ari QB,QB,
-35,Colt McCoy*, Wsh QB O,QB,
-36,Joe Webb III, Hou QB,QB,
-37,Cam Newton*, Car QB O,QB,
-38,Colin Kaepernick, FA QB,QB,
-39,Andy Dalton*, Cin QB IR,QB,
-0,Ezekiel Elliott, Dal RB,RB,
-1,Christian McCaffrey, Car RB,RB,
-2,Todd Gurley II, LAR RB Q,RB,
-3,Saquon Barkley, NYG RB,RB,
-4,Alvin Kamara, NO RB,RB,
-5,Nick Chubb, Cle RB,RB,
-6,Melvin Gordon, LAC RB,RB,
-7,Joe Mixon, Cin RB,RB,
-8,Phillip Lindsay, Den RB,RB,
-9,Jaylen Samuels, Pit RB,RB,
-10,Dalvin Cook, Min RB,RB,
-11,David Johnson, Ari RB,RB,
-12,Derrick Henry, Ten RB,RB,
-13,Chris Carson, Sea RB,RB,
-14,Leonard Fournette, Jax RB,RB,
-15,Tarik Cohen, Chi RB,RB,
-16,Marlon Mack, Ind RB,RB,
-17,Elijah McGuire, NYJ RB,RB,
-18,Jamaal Williams, GB RB,RB,
-19,Mark Ingram II, NO RB,RB,
-20,Damien Williams, KC RB,RB,
-21,Lamar Miller, Hou RB Q,RB,
-22,Sony Michel, NE RB,RB,
-23,Matt Breida, SF RB,RB,
-24,Tevin Coleman, Atl RB,RB,
-25,James White, NE RB,RB,
-26,Theo Riddick, Det RB,RB,
-27,Peyton Barber, TB RB,RB,
-28,Jalen Richard, Oak RB,RB,
-29,LeSean McCoy, Buf RB,RB,
-30,Kenyan Drake, Mia RB,RB,
-31,Doug Martin, Oak RB,RB,
-32,Nyheim Hines, Ind RB,RB,
-33,Dion Lewis, Ten RB,RB,
-34,Zach Zenner, Det RB,RB,
-35,Adrian Peterson, Wsh RB,RB,
-36,Josh Adams, Phi RB,RB,
-37,Jordan Howard, Chi RB,RB,
-38,Gus Edwards, Bal RB,RB,
-39,Chris Thompson, Wsh RB,RB,
-0,Kalen Ballage, Mia RB,RB,
-1,Trenton Cannon, NYJ RB,RB,
-2,T.J. Yeldon, Jax RB,RB,
-3,Duke Johnson Jr., Cle RB,RB,
-4,Jeff Wilson Jr., SF RB,RB,
-5,LeGarrette Blount, Det RB Q,RB,
-6,Brian Hill, Atl RB,RB,
-7,Rashaad Penny, Sea RB Q,RB,
-8,Kenneth Dixon, Bal RB,RB,
-9,Darren Sproles, Phi RB,RB,
-10,Darrel Williams, KC RB,RB,
-11,Justin Jackson, LAC RB,RB,
-12,Royce Freeman, Den RB,RB,
-13,Giovani Bernard, Cin RB,RB,
-14,Mike Davis, Sea RB,RB,
-15,Rex Burkhead, NE RB,RB,
-16,Kapri Bibbs, GB RB,RB,
-17,Wendell Smallwood, Phi RB,RB,
-18,Chris Ivory, Buf RB Q,RB,
-19,Devontae Booker, Den RB,RB,
-20,Latavius Murray, Min RB,RB,
-21,Kyle Juszczyk, SF RB,RB,
-22,Cordarrelle Patterson, NE WR,RB, RB
-23,Chase Edmonds, Ari RB,RB,
-24,Javorius Allen, Bal RB,RB,
-25,Alfred Blue, Hou RB,RB,
-26,Wayne Gallman, NYG RB,RB,
-27,Stevan Ridley, Pit RB,RB,
-28,Rod Smith, Dal RB,RB,
-29,Jacquizz Rodgers, TB RB,RB,
-30,Ronald Jones, TB RB,RB,
-31,DeAndre Washington, Oak RB,RB,
-32,David Williams, Jax RB,RB,
-33,Byron Marshall, Wsh RB,RB,
-34,Taquan Mizzell, Chi RB,RB,
-35,Keith Ford, Buf RB,RB,
-36,Brandon Bolden, Mia RB,RB,
-37,Elijhaa Penny, NYG RB,RB,
-38,Cameron Artis-Payne, Car RB,RB,
-39,C.J. Anderson, LAR RB,RB,
-0,Davante Adams, GB WR,WR,
-1,Julio Jones, Atl WR Q,WR,
-2,Michael Thomas, NO WR,WR,
-3,DeAndre Hopkins, Hou WR Q,WR,
-4,JuJu Smith-Schuster, Pit WR Q,WR,
-5,Tyreek Hill, KC WR,WR,
-6,Keenan Allen, LAC WR Q,WR,
-7,Antonio Brown, Pit WR,WR,
-8,T.Y. Hilton, Ind WR Q,WR,
-9,Robert Woods, LAR WR,WR,
-10,Amari Cooper, Dal WR,WR,
-11,Adam Thielen, Min WR,WR,
-12,Julian Edelman, NE WR,WR,
-13,Stefon Diggs, Min WR,WR,
-14,Mike Evans, TB WR,WR,
-15,Brandin Cooks, LAR WR,WR,
-16,Alshon Jeffery, Phi WR,WR,
-17,Jarvis Landry, Cle WR,WR,
-18,Doug Baldwin, Sea WR,WR,
-19,Kenny Golladay, Det WR Q,WR,
-20,Allen Robinson, Chi WR,WR,
-21,Tyler Lockett, Sea WR,WR,
-22,Sterling Shepard, NYG WR,WR,
-23,Dede Westbrook, Jax WR,WR,
-24,Larry Fitzgerald, Ari WR,WR,
-25,DaeSean Hamilton, Den WR,WR,
-26,Corey Davis, Ten WR,WR,
-27,Mohamed Sanu, Atl WR,WR,
-28,Dante Pettis, SF WR,WR,
-29,Josh Reynolds, LAR WR,WR,
-30,DJ Moore, Car WR,WR,
-31,Tim Patrick, Den WR,WR,
-32,Robby Anderson, NYJ WR,WR,
-33,Jordy Nelson, Oak WR,WR,
-34,Taylor Gabriel, Chi WR,WR,
-35,Calvin Ridley, Atl WR,WR,
-36,DeSean Jackson, TB WR Q,WR,
-37,Chris Hogan, NE WR,WR,
-38,Kenny Stills, Mia WR,WR,
-39,Adam Humphries, TB WR,WR,
-0,Courtland Sutton, Den WR Q,WR,
-1,Jamison Crowder, Wsh WR,WR,
-2,Demaryius Thomas, Hou WR,WR,
-3,Zay Jones, Buf WR,WR,
-4,Robert Foster, Buf WR,WR,
-5,Michael Gallup, Dal WR,WR,
-6,Curtis Samuel, Car WR,WR,
-7,John Ross, Cin WR,WR,
-8,Danny Amendola, Mia WR,WR,
-9,Antonio Callaway, Cle WR,WR,
-10,Golden Tate, Phi WR,WR,
-11,Mike Williams, LAC WR,WR,
-12,Marquez Valdes-Scantling, GB WR,WR,
-13,Chris Conley, KC WR,WR,
-14,Tyrell Williams, LAC WR,WR,
-15,Equanimeous St. Brown, GB WR,WR,
-16,Donte Moncrief, Jax WR,WR,
-17,Seth Roberts, Oak WR,WR,
-18,Taywan Taylor, Ten WR,WR,
-19,Keke Coutee, Hou WR Q,WR,
-20,Josh Doctson, Wsh WR Q,WR,
-21,Cody Core, Cin WR,WR,
-22,Jarius Wright, Car WR,WR,
-23,Alex Erickson, Cin WR,WR,
-24,Chris Godwin, TB WR,WR,
-25,David Moore, Sea WR,WR,
-26,Rashard Higgins, Cle WR,WR,
-27,Kendrick Bourne, SF WR,WR,
-28,Isaiah McKenzie, Buf WR,WR,
-29,Willie Snead IV, Bal WR,WR,
-30,Marcell Ateman, Oak WR,WR,
-31,Anthony Miller, Chi WR,WR,
-32,John Brown, Bal WR,WR,
-33,Andre Roberts, NYJ WR,WR,
-34,Trent Sherfield, Ari WR,WR,
-35,Zach Pascal, Ind WR,WR,
-36,Michael Crabtree, Bal WR,WR,
-37,TJ Jones, Det WR,WR,
-38,Cody Latimer, NYG WR,WR,
-39,DeVante Parker, Mia WR,WR,
-0,Travis Kelce, KC TE,TE,
-1,George Kittle, SF TE,TE,
-2,Zach Ertz, Phi TE,TE,
-3,Eric Ebron, Ind TE,TE,
-4,Evan Engram, NYG TE,TE,
-5,Rob Gronkowski, NE TE,TE,
-6,Jared Cook, Oak TE,TE,
-7,Austin Hooper, Atl TE,TE,
-8,Jimmy Graham, GB TE,TE,
-9,David Njoku, Cle TE,TE,
-10,Kyle Rudolph, Min TE,TE,
-11,Vance McDonald, Pit TE,TE,
-12,Cameron Brate, TB TE,TE,
-13,Gerald Everett, LAR TE,TE,
-14,Chris Herndon, NYJ TE,TE,
-15,Ian Thomas, Car TE,TE,
-16,Trey Burton, Chi TE,TE,
-17,C.J. Uzomah, Cin TE,TE,
-18,Benjamin Watson, NO TE,TE,
-19,Ricky Seals-Jones, Ari TE Q,TE,
-20,Jeremy Sprinkle, Wsh TE,TE,
-21,Matt LaCosse, Den TE Q,TE,
-22,Dallas Goedert, Phi TE,TE,
-23,Levine Toilolo, Det TE,TE,
-24,Geoff Swaim*, Dal TE O,TE,
-25,Charles Clay, Buf TE,TE,
-26,Antonio Gates, LAC TE,TE,
-27,Mike Gesicki, Mia TE,TE,
-28,Demetrius Harris, KC TE,TE,
-29,Jesse James, Pit TE,TE,
-30,Ed Dickson, Sea TE,TE,
-31,James O'Shaughnessy, Jax TE,TE,
-32,Brian Parker, Den TE,TE,
-33,Tyler Higbee, LAR TE,TE,
-34,Nick Vannett, Sea TE,TE,
-35,Ryan Griffin, Hou TE,TE,
-36,Virgil Green, LAC TE,TE,
-37,Mo Alie-Cox, Ind TE,TE,
-38,MyCole Pruitt, Ten TE,TE,
-39,Mark Andrews, Bal TE,TE,
-0,Jordan Thomas, Hou TE,TE,
-1,Jordan Leggett, NYJ TE,TE,
-2,Anthony Firkser, Ten TE,TE,
-3,Luke Willson, Det TE,TE,
-4,Adam Shaheen, Chi TE,TE,
-5,Lance Kendricks, GB TE,TE,
-6,Jason Croom, Buf TE,TE,
-7,Blake Bell, Jax TE,TE,
-8,Matt Flanagan, Wsh TE,TE,
-9,Jordan Akins, Hou TE,TE,
-10,Chris Manhertz, Car TE,TE,
-11,Nick O'Leary, Mia TE,TE,
-12,Luke Stocker, Ten TE,TE,
-13,Nick Boyle, Bal TE Q,TE,
-14,Dan Arnold, NO TE,TE,
-15,Josh Hill, NO TE,TE,
-16,Garrett Celek, SF TE,TE,
-17,Matt Lengel, Cin TE,TE,
-18,Logan Paulsen, Atl TE,TE,
-19,Jermaine Gresham, Ari TE,TE,
-20,Antony Auclair, TB TE,TE,
-21,Rhett Ellison, NYG TE,TE,
-22,Dalton Schultz, Dal TE,TE,
-23,Blake Jarwin, Dal TE,TE,
-24,Lee Smith, Oak TE Q,TE,
-25,Hayden Hurst, Bal TE,TE,
-26,Darren Fells, Cle TE,TE,
-27,Rico Gathers, Dal TE,TE,
-28,Derek Carrier, Oak TE,TE,
-29,Logan Thomas, Buf TE,TE,
-30,Tyler Conklin, Min TE,TE,
-31,Xavier Grimble, Pit TE,TE,
-32,Eric Saubert, Atl TE,TE,
-33,Seth DeValve, Cle TE,TE,
-34,Maxx Williams, Bal TE,TE,
-35,Ben Braunecker, Chi TE,TE,
-36,David Morgan, Min TE,TE,
-37,Temarrick Hemingway, Den TE,TE,
-38,Jordan Franks, Cin TE,TE,
-39,Eric Tomlinson, NYJ TE,TE,
+,OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS.1,TD.1,REC,YDS.2,TD.2,PTS,POSITION,SEASON,WEEK,Name,ESPN
+0,@Sea,Sun 8:20,24.2/37.5,301.0,2.5,0.8,3.8,15.7,0.2,0.0,0.0,0,22.7,QB,2018,16,Patrick Mahomes,23.5
+1,NYG,Sun 1:00,24.6/37.8,271.6,2.4,1.1,2.9,13.0,0.1,0.0,0.0,0,19.9,QB,2018,16,Andrew Luck,21.0
+2,KC,Sun 8:20,18.1/27.5,217.6,2.3,0.5,4.3,23.9,0.1,0.0,0.0,0,19.8,QB,2018,16,Russell Wilson,20.3
+3,@NYJ,Sun 1:00,23.4/37.7,284.8,1.8,0.3,3.0,16.7,0.1,0.0,0.0,0,19.8,QB,2018,16,Aaron Rodgers,20.1
+4,TB,Sun 1:00,21.3/32.4,246.5,1.7,0.6,4.4,23.9,0.3,0.0,0.0,0,19.7,QB,2018,16,Dak Prescott,20.3
+5,Pit,Sun 4:25,22.4/31.9,245.2,2.3,0.3,2.1,1.5,0.2,0.0,0.0,0,19.6,QB,2018,16,Drew Brees,19.900000000000002
+6,@Ari,Sun 4:05,23.6/37.5,287.3,1.9,0.7,3.0,10.5,0.1,0.0,0.0,0,19.4,QB,2018,16,Jared Goff,20.099999999999998
+7,@NO,Sun 4:25,27.5/42.4,322.6,1.9,1.0,1.8,3.3,0.1,0.0,0.0,0,19.1,QB,2018,16,Ben Roethlisberger,20.1
+8,@Car,Sun 1:00,25.8/38.6,302.7,1.8,0.6,2.1,7.1,0.1,0.0,0.0,0,18.9,QB,2018,16,Matt Ryan,19.5
+9,@SF,Sun 4:05,21/33,239.7,1.8,0.8,4.8,28.2,0.2,0.0,0.0,0,18.9,QB,2018,16,Mitchell Trubisky,19.7
+10,Bal,Sat 8:20,22.5/33.8,262.6,2.0,0.4,1.6,3.0,0.0,0.0,0.0,0,18.0,QB,2018,16,Philip Rivers,18.4
+11,@Dal,Sun 1:00,23.6/38,291.3,1.5,1.3,5.3,23.8,0.2,0.0,0.0,0,17.9,QB,2018,16,Jameis Winston,19.2
+12,@Phi,Sun 1:00,20.4/31.4,244.7,1.5,0.8,5.3,33.5,0.1,0.0,0.0,0,17.8,QB,2018,16,Deshaun Watson,18.6
+13,Cin,Sun 1:00,20.8/33.4,245.5,1.9,0.9,3.1,11.5,0.2,0.0,0.0,0,17.7,QB,2018,16,Baker Mayfield,18.599999999999998
+14,@Det,Sun 1:00,23.2/33.9,255.0,1.6,0.6,3.4,9.5,0.2,0.0,0.0,0,17.2,QB,2018,16,Kirk Cousins,17.8
+15,@NE,Sun 1:00,18.8/32.8,224.8,1.0,1.0,7.6,46.6,0.4,0.0,0.0,0,17.1,QB,2018,16,Josh Allen,18.1
+16,Buf,Sun 1:00,23.7/36.7,268.8,1.6,0.7,1.5,1.5,0.1,0.0,0.0,0,16.5,QB,2018,16,Tom Brady,17.2
+17,Hou,Sun 1:00,24.1/37.2,261.1,1.7,1.0,2.2,5.9,0.1,0.0,0.0,0,15.9,QB,2018,16,Nick Foles,16.9
+18,Jax,Sun 1:00,18.5/29.1,209.2,1.8,0.6,2.6,11.2,0.1,0.0,0.0,0,15.6,QB,2018,16,Ryan Tannehill,16.2
+19,@LAC,Sat 8:20,14.8/24.9,163.8,0.8,0.7,11.5,57.6,0.3,0.0,0.0,0,15.5,QB,2018,16,Lamar Jackson,16.2
+20,@Oak,Mon 8:15,21.8/34.8,251.2,1.5,0.8,1.4,4.6,0.1,0.0,0.0,0,15.3,QB,2018,16,Case Keenum,16.1
+21,GB,Sun 1:00,20.3/33.9,238.7,1.3,0.9,3.2,10.5,0.1,0.0,0.0,0,14.6,QB,2018,16,Sam Darnold,15.5
+22,@Cle,Sun 1:00,21.8/35.2,235.1,1.1,0.8,3.1,14.1,0.1,0.0,0.0,0,14.2,QB,2018,16,Jeff Driskel,15.0
+23,@Ind,Sun 1:00,23.3/35.8,252.3,1.4,0.7,1.2,1.7,0.0,0.0,0.0,0,14.2,QB,2018,16,Eli Manning,14.899999999999999
+24,Den,Mon 8:15,22.7/34.3,256.2,1.1,0.6,1.9,5.4,0.1,0.0,0.0,0,14.2,QB,2018,16,Derek Carr,14.799999999999999
+25,Wsh,Sat 4:30,17/26.1,188.9,1.0,0.8,4.7,24.8,0.3,0.0,0.0,0,14.0,QB,2018,16,Marcus Mariota,14.8
+26,Chi,Sun 4:05,22.9/35.7,268.2,1.0,1.1,2.7,10.5,0.1,0.0,0.0,0,13.7,QB,2018,16,Nick Mullens,14.799999999999999
+27,Atl,Sun 1:00,21.9/34.4,240.5,1.2,1.2,2.8,11.7,0.1,0.0,0.0,0,13.6,QB,2018,16,Taylor Heinicke,14.799999999999999
+28,Min,Sun 1:00,23.1/35,246.8,1.0,0.8,1.8,6.5,0.1,0.0,0.0,0,13.1,QB,2018,16,Matthew Stafford,13.9
+29,@Mia,Sun 1:00,20.6/32.2,222.3,0.8,0.8,4.2,17.4,0.1,0.0,0.0,0,12.4,QB,2018,16,Cody Kessler,13.200000000000001
+30,@Ten,Sat 4:30,20.7/34.3,226.7,0.6,1.1,5.8,27.4,0.1,0.0,0.0,0,12.3,QB,2018,16,Josh Johnson,13.4
+31,LAR,Sun 4:05,18.3/30.3,203.2,1.4,1.0,1.8,7.4,0.0,0.0,0.0,0,12.1,QB,2018,16,Josh Rosen,13.1
+32,Pit,Sun 4:25,0.2/0.3,2.1,0.0,0.0,1.8,8.6,0.1,0.0,0.0,0,2.0,QB,2018,16,Taysom Hill,2.0
+33,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,4.6,0,0.9,QB,2018,16,Joe Webb III,0.9
+34,@LAC,Sat 8:20,0.5/0.8,5.6,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0,0.3,QB,2018,16,Joe Flacco,0.3
+35,@Sea,Sun 8:20,0.1/0.2,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Chad Henne,0.1
+36,NYG,Sun 1:00,0.1/0.2,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Jacoby Brissett,0.1
+37,@NO,Sun 4:25,0.1/0.2,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Joshua Dobbs,0.1
+38,@NYJ,Sun 1:00,0.1/0.2,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,DeShone Kizer,0.1
+39,@Ari,Sun 4:05,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Sean Mannion,0.1
+0,@Dal,Sun 1:00,0.1/0.2,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Ryan Fitzpatrick,0.1
+1,Pit,Sun 4:25,0.1/0.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Teddy Bridgewater,0.1
+2,TB,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Cooper Rush,0.1
+3,KC,Sun 8:20,0.1/0.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Brett Hundley,0.1
+4,@SF,Sun 4:05,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Chase Daniel,0.1
+5,@Car,Sun 1:00,0.1/0.2,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Matt Schaub,0.1
+6,Cin,Sun 1:00,0.1/0.2,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Tyrod Taylor,0.1
+7,Bal,Sat 8:20,0.1/0.2,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Geno Smith,0.1
+8,Hou,Sun 1:00,0.1/0.2,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Nate Sudfeld,0.1
+9,@Oak,Mon 8:15,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Kevin Hogan,0.1
+10,@Det,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Trevor Siemian,0.1
+11,Jax,Sun 1:00,0.1/0.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Brock Osweiler,0.1
+12,Buf,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Brian Hoyer,0.1
+13,GB,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Josh McCown,0.1
+14,@Ind,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Alex Tanney,0.1
+15,LAR,Sun 4:05,0.1/0.2,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Mike Glennon,0.1
+16,@NE,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Matt Barkley,0.1
+17,Den,Mon 8:15,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,AJ McCarron,0.1
+18,@Cle,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Tom Savage,0.1
+19,Min,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Matt Cassel,0.1
+20,@Ten,Sat 4:30,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Mark Sanchez,0.1
+21,Chi,Sun 4:05,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,C.J. Beathard,0.1
+22,@Mia,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Blake Bortles,0.1
+23,Wsh,Sat 4:30,0.1/0.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.1,QB,2018,16,Blaine Gabbert,0.1
+24,@Phi,Sun 1:00,0.1/0.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Brandon Weeden,0.0
+25,@Det,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Shaun Hill,0.0
+26,** BYE **,0/0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,--,,QB,2018,16,Carson Palmer,
+27,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Alex Smith*,0.0
+28,@NE,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Derek Anderson,0.0
+29,** BYE **,0/0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,--,,QB,2018,16,Jay Cutler,
+30,Bal,Sat 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Kellen Clemens,0.0
+31,Cin,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Charlie Whitehurst,0.0
+32,Cin,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Drew Stanton,0.0
+33,** BYE **,0/0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,--,,QB,2018,16,Matt Moore,
+34,NYG,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Josh Freeman,0.0
+35,LAR,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Sam Bradford,0.0
+36,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Colt McCoy*,0.0
+37,Atl,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Cam Newton*,0.0
+38,** BYE **,0/0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,--,,QB,2018,16,Colin Kaepernick,
+39,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,QB,2018,16,Andy Dalton*,0.0
+0,TB,Sun 1:00,0/0,0.0,0.0,0.0,20.8,93.4,0.9,5.0,41.0,0.2,24.8,RB,2018,16,Ezekiel Elliott,24.8
+1,Atl,Sun 1:00,0/0,0.0,0.0,0.0,16.6,73.5,0.6,6.0,50.0,0.2,22.7,RB,2018,16,Christian McCaffrey,22.7
+2,@Ari,Sun 4:05,0/0,0.0,0.0,0.0,17.6,82.1,0.8,4.2,38.0,0.2,22.1,RB,2018,16,Todd Gurley II,22.1
+3,@Ind,Sun 1:00,0/0,0.0,0.0,0.0,18.1,80.3,0.5,5.4,44.7,0.2,21.7,RB,2018,16,Saquon Barkley,21.7
+4,Pit,Sun 4:25,0/0,0.0,0.0,0.0,13.6,58.3,0.8,4.7,39.1,0.3,21.2,RB,2018,16,Alvin Kamara,21.2
+5,Cin,Sun 1:00,0/0,0.0,0.0,0.0,20.8,94.7,0.9,2.5,21.5,0.1,20.3,RB,2018,16,Nick Chubb,20.3
+6,Bal,Sat 8:20,0/0,0.0,0.0,0.0,15.2,64.6,0.4,4.9,44.5,0.3,19.8,RB,2018,16,Melvin Gordon,19.8
+7,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,17.7,75.7,0.5,3.5,26.0,0.1,17.0,RB,2018,16,Joe Mixon,17.0
+8,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,15.4,70.8,0.7,2.9,22.0,0.1,16.6,RB,2018,16,Phillip Lindsay,16.6
+9,@NO,Sun 4:25,0/0,0.0,0.0,0.0,14.2,56.9,0.6,3.6,30.1,0.1,16.5,RB,2018,16,Jaylen Samuels,16.5
+10,LAR,Sun 4:05,0/0,0.0,0.0,0.0,16.4,66.5,0.4,3.4,29.0,0.2,16.2,RB,2018,16,David Johnson,16.2
+11,@Det,Sun 1:00,0/0,0.0,0.0,0.0,15.6,68.9,0.4,3.5,26.3,0.1,16.0,RB,2018,16,Dalvin Cook,16.0
+12,Wsh,Sat 4:30,0/0,0.0,0.0,0.0,18.1,82.3,0.9,1.2,9.3,0.0,15.6,RB,2018,16,Derrick Henry,15.6
+13,KC,Sun 8:20,0/0,0.0,0.0,0.0,16.4,72.4,0.7,1.7,13.9,0.1,14.7,RB,2018,16,Chris Carson,14.7
+14,@Mia,Sun 1:00,0/0,0.0,0.0,0.0,16.8,65.1,0.4,3.0,23.2,0.1,14.6,RB,2018,16,Leonard Fournette,14.6
+15,@SF,Sun 4:05,0/0,0.0,0.0,0.0,6.4,26.3,0.2,4.7,45.5,0.3,14.4,RB,2018,16,Tarik Cohen,14.4
+16,NYG,Sun 1:00,0/0,0.0,0.0,0.0,17.4,74.2,0.6,1.5,10.6,0.1,14.2,RB,2018,16,Marlon Mack,14.2
+17,GB,Sun 1:00,0/0,0.0,0.0,0.0,14.0,55.2,0.5,2.8,25.0,0.1,14.1,RB,2018,16,Elijah McGuire,14.1
+18,@Sea,Sun 8:20,0/0,0.0,0.0,0.0,12.0,48.0,0.5,2.9,23.8,0.1,14.1,RB,2018,16,Damien Williams,14.1
+19,@NYJ,Sun 1:00,0/0,0.0,0.0,0.0,13.7,53.8,0.4,3.1,24.3,0.1,13.9,RB,2018,16,Jamaal Williams,13.9
+20,Pit,Sun 4:25,0/0,0.0,0.0,0.0,11.8,52.5,0.7,2.3,18.1,0.1,13.9,RB,2018,16,Mark Ingram II,13.9
+21,Buf,Sun 1:00,0/0,0.0,0.0,0.0,17.7,72.7,0.8,0.3,2.1,0.0,12.8,RB,2018,16,Sony Michel,12.8
+22,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,16.9,65.4,0.3,2.1,18.0,0.1,12.8,RB,2018,16,Alfred Blue,12.8
+23,Chi,Sun 4:05,0/0,0.0,0.0,0.0,13.6,58.8,0.3,2.7,22.5,0.1,12.7,RB,2018,16,Matt Breida,12.7
+24,@Car,Sun 1:00,0/0,0.0,0.0,0.0,11.3,47.9,0.3,2.7,24.5,0.1,12.3,RB,2018,16,Tevin Coleman,12.3
+25,Buf,Sun 1:00,0/0,0.0,0.0,0.0,3.0,12.2,0.2,4.7,39.0,0.2,12.1,RB,2018,16,James White,12.1
+26,Min,Sun 1:00,0/0,0.0,0.0,0.0,6.2,23.7,0.1,4.6,33.7,0.1,11.8,RB,2018,16,Theo Riddick,11.8
+27,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,15.0,57.7,0.5,1.7,12.8,0.1,11.8,RB,2018,16,Peyton Barber,11.8
+28,Den,Mon 8:15,0/0,0.0,0.0,0.0,6.0,27.6,0.2,4.1,34.9,0.1,11.8,RB,2018,16,Jalen Richard,11.8
+29,@NE,Sun 1:00,0/0,0.0,0.0,0.0,13.5,52.8,0.3,2.4,18.4,0.1,11.5,RB,2018,16,LeSean McCoy,11.5
+30,Jax,Sun 1:00,0/0,0.0,0.0,0.0,7.9,34.0,0.2,3.0,23.9,0.2,11.2,RB,2018,16,Kenyan Drake,11.2
+31,Den,Mon 8:15,0/0,0.0,0.0,0.0,14.4,56.3,0.6,1.0,8.4,0.0,10.9,RB,2018,16,Doug Martin,10.9
+32,NYG,Sun 1:00,0/0,0.0,0.0,0.0,6.0,24.2,0.2,3.5,25.0,0.2,10.5,RB,2018,16,Nyheim Hines,10.5
+33,Wsh,Sat 4:30,0/0,0.0,0.0,0.0,7.3,30.3,0.3,3.3,22.3,0.1,10.4,RB,2018,16,Dion Lewis,10.4
+34,Min,Sun 1:00,0/0,0.0,0.0,0.0,9.5,37.1,0.3,2.6,20.7,0.1,10.4,RB,2018,16,Zach Zenner,10.4
+35,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,13.8,57.9,0.2,1.7,14.7,0.0,10.1,RB,2018,16,Adrian Peterson,10.1
+36,Hou,Sun 1:00,0/0,0.0,0.0,0.0,14.1,55.8,0.5,0.8,6.4,0.0,10.0,RB,2018,16,Josh Adams,10.0
+37,@SF,Sun 4:05,0/0,0.0,0.0,0.0,14.0,55.0,0.4,0.9,7.5,0.0,9.9,RB,2018,16,Jordan Howard,9.9
+38,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,16.5,71.6,0.3,0.1,0.8,0.0,9.0,RB,2018,16,Gus Edwards,9.0
+39,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,4.0,17.9,0.1,3.5,27.9,0.0,8.6,RB,2018,16,Chris Thompson,8.6
+0,Jax,Sun 1:00,0/0,0.0,0.0,0.0,9.9,45.4,0.2,1.3,10.2,0.1,8.5,RB,2018,16,Kalen Ballage,8.5
+1,GB,Sun 1:00,0/0,0.0,0.0,0.0,6.8,26.1,0.2,2.2,18.9,0.1,8.3,RB,2018,16,Trenton Cannon,8.3
+2,@Mia,Sun 1:00,0/0,0.0,0.0,0.0,2.9,12.0,0.1,3.3,27.8,0.1,8.0,RB,2018,16,T.J. Yeldon,8.0
+3,Cin,Sun 1:00,0/0,0.0,0.0,0.0,3.6,15.4,0.1,2.3,20.5,0.1,7.3,RB,2018,16,Duke Johnson Jr.,7.3
+4,Chi,Sun 4:05,0/0,0.0,0.0,0.0,9.1,36.4,0.2,1.3,10.4,0.0,7.2,RB,2018,16,Jeff Wilson Jr.,7.2
+5,Min,Sun 1:00,0/0,0.0,0.0,0.0,7.1,26.7,0.2,1.6,12.7,0.0,7.1,RB,2018,16,LeGarrette Blount,7.1
+6,@Car,Sun 1:00,0/0,0.0,0.0,0.0,6.4,24.4,0.2,1.8,14.3,0.1,7.1,RB,2018,16,Brian Hill,7.1
+7,KC,Sun 8:20,0/0,0.0,0.0,0.0,7.6,33.7,0.2,1.0,8.5,0.1,7.1,RB,2018,16,Rashaad Penny,7.1
+8,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,7.7,32.2,0.1,1.5,12.3,0.0,7.0,RB,2018,16,Kenneth Dixon,7.0
+9,Hou,Sun 1:00,0/0,0.0,0.0,0.0,3.1,13.2,0.1,2.5,19.4,0.1,7.0,RB,2018,16,Darren Sproles,7.0
+10,@Sea,Sun 8:20,0/0,0.0,0.0,0.0,4.8,18.7,0.2,1.7,14.3,0.1,6.7,RB,2018,16,Darrel Williams,6.7
+11,Bal,Sat 8:20,0/0,0.0,0.0,0.0,4.7,17.5,0.1,2.0,15.7,0.1,6.6,RB,2018,16,Justin Jackson,6.6
+12,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,7.2,30.3,0.3,0.8,6.3,0.0,6.5,RB,2018,16,Royce Freeman,6.5
+13,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,2.5,10.5,0.1,2.7,20.9,0.0,6.5,RB,2018,16,Giovani Bernard,6.5
+14,KC,Sun 8:20,0/0,0.0,0.0,0.0,3.8,15.4,0.1,1.9,14.7,0.1,6.4,RB,2018,16,Mike Davis,6.4
+15,Buf,Sun 1:00,0/0,0.0,0.0,0.0,4.2,16.9,0.2,1.6,13.0,0.1,6.1,RB,2018,16,Rex Burkhead,6.1
+16,@NYJ,Sun 1:00,0/0,0.0,0.0,0.0,5.8,24.1,0.2,1.1,9.0,0.0,5.7,RB,2018,16,Kapri Bibbs,5.7
+17,Hou,Sun 1:00,0/0,0.0,0.0,0.0,5.0,19.3,0.1,1.4,11.2,0.1,5.5,RB,2018,16,Wendell Smallwood,5.5
+18,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,7.3,30.6,0.1,0.9,7.8,0.0,5.3,RB,2018,16,D'Onta Foreman,5.3
+19,@NE,Sun 1:00,0/0,0.0,0.0,0.0,4.9,20.0,0.1,1.2,9.8,0.0,5.1,RB,2018,16,Chris Ivory,5.1
+20,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,0.7,3.0,0.0,2.1,17.5,0.1,4.7,RB,2018,16,Devontae Booker,4.7
+21,@Det,Sun 1:00,0/0,0.0,0.0,0.0,6.8,27.4,0.2,0.3,2.1,0.0,4.7,RB,2018,16,Latavius Murray,4.7
+22,Chi,Sun 4:05,0/0,0.0,0.0,0.0,0.3,1.0,0.0,2.1,19.9,0.1,4.6,RB,2018,16,Kyle Juszczyk,4.6
+23,Buf,Sun 1:00,0/0,0.0,0.0,0.0,0.6,3.6,0.0,1.5,16.6,0.1,4.4,RB,2018,16,Cordarrelle Patterson,4.4
+24,LAR,Sun 4:05,0/0,0.0,0.0,0.0,4.0,16.4,0.1,1.1,8.9,0.0,4.3,RB,2018,16,Chase Edmonds,4.3
+25,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,1.8,7.1,0.0,1.8,12.0,0.0,4.2,RB,2018,16,Javorius Allen,4.2
+26,@Ind,Sun 1:00,0/0,0.0,0.0,0.0,2.8,11.3,0.1,1.3,10.8,0.0,4.1,RB,2018,16,Wayne Gallman,4.1
+27,@NO,Sun 4:25,0/0,0.0,0.0,0.0,3.7,13.6,0.2,0.6,5.3,0.0,3.6,RB,2018,16,Stevan Ridley,3.6
+28,TB,Sun 1:00,0/0,0.0,0.0,0.0,2.9,11.9,0.1,0.7,6.0,0.0,3.6,RB,2018,16,Rod Smith,3.6
+29,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,1.0,3.8,0.0,1.4,11.7,0.0,3.3,RB,2018,16,Jacquizz Rodgers,3.3
+30,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,1.4,4.8,0.0,1.1,8.9,0.0,3.0,RB,2018,16,Ronald Jones,3.0
+31,Den,Mon 8:15,0/0,0.0,0.0,0.0,3.0,12.7,0.1,0.5,4.1,0.0,2.8,RB,2018,16,DeAndre Washington,2.8
+32,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,0.8,3.3,0.0,1.2,10.0,0.0,2.8,RB,2018,16,Byron Marshall,2.8
+33,@Mia,Sun 1:00,0/0,0.0,0.0,0.0,4.5,17.6,0.1,0.2,1.9,0.0,2.8,RB,2018,16,David Williams,2.8
+34,@SF,Sun 4:05,0/0,0.0,0.0,0.0,1.8,6.8,0.1,0.7,6.1,0.0,2.6,RB,2018,16,Taquan Mizzell,2.6
+35,@NE,Sun 1:00,0/0,0.0,0.0,0.0,2.0,7.9,0.1,0.7,5.8,0.0,2.5,RB,2018,16,Keith Ford,2.5
+36,Jax,Sun 1:00,0/0,0.0,0.0,0.0,2.7,11.3,0.1,0.4,3.5,0.0,2.4,RB,2018,16,Brandon Bolden,2.4
+37,@Ind,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,9.2,0.0,2.2,RB,2018,16,Elijhaa Penny,2.2
+38,Atl,Sun 1:00,0/0,0.0,0.0,0.0,2.4,10.0,0.1,0.2,2.0,0.0,2.0,RB,2018,16,Cameron Artis-Payne,2.0
+39,@Ari,Sun 4:05,0/0,0.0,0.0,0.0,1.9,7.7,0.1,0.3,2.2,0.0,1.8,RB,2018,16,C.J. Anderson,1.8
+0,@NYJ,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,7.1,94.8,0.6,20.1,WR,2018,16,Davante Adams,20.1
+1,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,0.3,1.7,0.0,6.8,94.4,0.6,20.0,WR,2018,16,DeAndre Hopkins,20.0
+2,@Car,Sun 1:00,0/0,0.0,0.0,0.0,0.2,1.3,0.0,6.8,98.4,0.5,19.9,WR,2018,16,Julio Jones,19.9
+3,Pit,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,84.1,0.7,19.5,WR,2018,16,Michael Thomas,19.5
+4,@Sea,Sun 8:20,0/0,0.0,0.0,0.0,1.2,8.2,0.0,5.2,84.9,0.6,18.6,WR,2018,16,Tyreek Hill,18.6
+5,@NO,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,6.6,87.0,0.5,18.5,WR,2018,16,JuJu Smith-Schuster,18.5
+6,Bal,Sat 8:20,0/0,0.0,0.0,0.0,0.7,4.2,0.0,6.6,78.9,0.5,18.1,WR,2018,16,Keenan Allen,18.1
+7,@NO,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,6.4,84.1,0.5,17.9,WR,2018,16,Antonio Brown,17.9
+8,NYG,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,79.9,0.6,17.0,WR,2018,16,T.Y. Hilton,17.0
+9,@Ari,Sun 4:05,0/0,0.0,0.0,0.0,1.0,6.6,0.0,5.5,73.8,0.4,16.2,WR,2018,16,Robert Woods,16.2
+10,TB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,5.4,76.3,0.5,16.1,WR,2018,16,Amari Cooper,16.1
+11,Buf,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,5.9,66.4,0.4,15.1,WR,2018,16,Julian Edelman,15.1
+12,@Det,Sun 1:00,0/0,0.0,0.0,0.0,0.3,1.8,0.0,5.6,69.3,0.4,15.1,WR,2018,16,Adam Thielen,15.1
+13,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,78.8,0.3,14.9,WR,2018,16,Mike Evans,14.9
+14,@Det,Sun 1:00,0/0,0.0,0.0,0.0,0.8,4.2,0.0,5.5,64.2,0.4,14.9,WR,2018,16,Stefon Diggs,14.9
+15,@Ari,Sun 4:05,0/0,0.0,0.0,0.0,0.7,4.2,0.0,4.6,67.6,0.3,14.1,WR,2018,16,Brandin Cooks,14.1
+16,Hou,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.8,60.9,0.4,13.3,WR,2018,16,Alshon Jeffery,13.3
+17,Cin,Sun 1:00,0/0,0.0,0.0,0.0,0.5,3.4,0.0,4.6,55.9,0.4,13.3,WR,2018,16,Jarvis Landry,13.3
+18,KC,Sun 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,49.8,0.6,12.4,WR,2018,16,Doug Baldwin,12.4
+19,Min,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.3,64.1,0.3,12.4,WR,2018,16,Kenny Golladay,12.4
+20,@SF,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.1,54.5,0.4,12.2,WR,2018,16,Allen Robinson,12.2
+21,KC,Sun 8:20,0/0,0.0,0.0,0.0,1.3,8.6,0.0,3.4,50.8,0.4,12.0,WR,2018,16,Tyler Lockett,12.0
+22,@Ind,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.4,56.4,0.3,11.9,WR,2018,16,Sterling Shepard,11.9
+23,@Mia,Sun 1:00,0/0,0.0,0.0,0.0,0.8,4.9,0.0,4.4,52.4,0.2,11.3,WR,2018,16,Dede Westbrook,11.3
+24,LAR,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.2,48.5,0.4,11.3,WR,2018,16,Larry Fitzgerald,11.3
+25,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.3,51.1,0.3,11.2,WR,2018,16,DaeSean Hamilton,11.2
+26,Wsh,Sat 4:30,0/0,0.0,0.0,0.0,0.6,3.5,0.0,3.8,51.2,0.3,11.2,WR,2018,16,Corey Davis,11.2
+27,@Car,Sun 1:00,0/0,0.0,0.0,0.0,0.4,2.2,0.0,4.2,51.0,0.3,11.1,WR,2018,16,Mohamed Sanu,11.1
+28,Chi,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,55.9,0.2,10.9,WR,2018,16,Dante Pettis,10.9
+29,@Ari,Sun 4:05,0/0,0.0,0.0,0.0,0.2,1.5,0.0,3.6,47.2,0.4,10.9,WR,2018,16,Josh Reynolds,10.9
+30,Atl,Sun 1:00,0/0,0.0,0.0,0.0,1.0,6.5,0.0,3.7,48.1,0.2,10.6,WR,2018,16,DJ Moore,10.6
+31,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,0.2,1.6,0.0,3.7,49.2,0.3,10.5,WR,2018,16,Tim Patrick,10.5
+32,GB,Sun 1:00,0/0,0.0,0.0,0.0,0.2,1.5,0.0,3.3,50.5,0.3,10.5,WR,2018,16,Robby Anderson,10.5
+33,Den,Mon 8:15,0/0,0.0,0.0,0.0,0.3,1.6,0.0,4.0,49.6,0.2,10.5,WR,2018,16,Jordy Nelson,10.5
+34,@SF,Sun 4:05,0/0,0.0,0.0,0.0,0.8,4.7,0.0,3.7,43.7,0.3,10.4,WR,2018,16,Taylor Gabriel,10.4
+35,@Car,Sun 1:00,0/0,0.0,0.0,0.0,0.4,2.4,0.0,3.7,46.8,0.3,10.3,WR,2018,16,Calvin Ridley,10.3
+36,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,0.6,3.5,0.0,3.2,52.6,0.2,10.2,WR,2018,16,DeSean Jackson,10.2
+37,Buf,Sun 1:00,0/0,0.0,0.0,0.0,0.6,3.4,0.0,3.3,48.3,0.3,10.2,WR,2018,16,Chris Hogan,10.2
+38,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.7,45.9,0.3,10.1,WR,2018,16,Demaryius Thomas,10.1
+39,Jax,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,45.3,0.4,10.1,WR,2018,16,Kenny Stills,10.1
+0,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,0.2,1.2,0.0,4.2,45.4,0.2,10.1,WR,2018,16,Adam Humphries,10.1
+1,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,0.4,2.5,0.0,3.9,49.3,0.1,9.7,WR,2018,16,Jamison Crowder,9.7
+2,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,0.2,1.6,0.0,3.0,46.2,0.3,9.6,WR,2018,16,Courtland Sutton,9.6
+3,@NE,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,43.7,0.3,9.5,WR,2018,16,Zay Jones,9.5
+4,@NE,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.9,52.7,0.2,9.4,WR,2018,16,Robert Foster,9.4
+5,Atl,Sun 1:00,0/0,0.0,0.0,0.0,1.0,6.4,0.0,3.0,41.2,0.2,9.3,WR,2018,16,Curtis Samuel,9.3
+6,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,0.2,1.4,0.0,3.2,42.3,0.3,9.1,WR,2018,16,John Ross,9.1
+7,Jax,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.7,38.5,0.2,9.1,WR,2018,16,Danny Amendola,9.1
+8,@Sea,Sun 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.2,37.0,0.3,8.9,WR,2018,16,Chris Conley,8.9
+9,Cin,Sun 1:00,0/0,0.0,0.0,0.0,0.1,0.9,0.0,2.8,38.6,0.4,8.9,WR,2018,16,Antonio Callaway,8.9
+10,Hou,Sun 1:00,0/0,0.0,0.0,0.0,0.1,0.6,0.0,3.5,40.3,0.2,8.8,WR,2018,16,Golden Tate,8.8
+11,Bal,Sat 8:20,0/0,0.0,0.0,0.0,0.7,4.2,0.0,2.5,37.2,0.3,8.8,WR,2018,16,Mike Williams,8.8
+12,@NYJ,Sun 1:00,0/0,0.0,0.0,0.0,0.2,1.3,0.0,2.9,42.8,0.2,8.8,WR,2018,16,Marquez Valdes-Scantling,8.8
+13,Bal,Sat 8:20,0/0,0.0,0.0,0.0,0.2,1.4,0.0,2.6,40.3,0.3,8.5,WR,2018,16,Tyrell Williams,8.5
+14,@NYJ,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.9,40.3,0.2,8.4,WR,2018,16,Equanimeous St. Brown,8.4
+15,@Mia,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,42.6,0.2,8.4,WR,2018,16,Donte Moncrief,8.4
+16,TB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,39.1,0.3,8.3,WR,2018,16,Michael Gallup,8.3
+17,Den,Mon 8:15,0/0,0.0,0.0,0.0,0.3,1.6,0.0,3.3,38.1,0.2,8.2,WR,2018,16,Seth Roberts,8.2
+18,Wsh,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.9,40.1,0.2,8.1,WR,2018,16,Taywan Taylor,8.1
+19,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,39.9,0.1,8.0,WR,2018,16,Josh Doctson,8.0
+20,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,38.2,0.2,7.9,WR,2018,16,Cody Core,7.9
+21,Atl,Sun 1:00,0/0,0.0,0.0,0.0,0.2,1.6,0.0,3.1,34.1,0.2,7.7,WR,2018,16,Jarius Wright,7.7
+22,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,0.2,1.4,0.0,2.9,34.7,0.2,7.7,WR,2018,16,Alex Erickson,7.7
+23,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.8,36.4,0.2,7.6,WR,2018,16,Chris Godwin,7.6
+24,KC,Sun 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,32.4,0.4,7.6,WR,2018,16,David Moore,7.6
+25,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,0.5,3.4,0.0,2.6,32.0,0.2,7.5,WR,2018,16,DeAndre Carter,7.5
+26,Cin,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,34.9,0.2,7.4,WR,2018,16,Rashard Higgins,7.4
+27,Chi,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,34.6,0.2,7.4,WR,2018,16,Kendrick Bourne,7.4
+28,@NE,Sun 1:00,0/0,0.0,0.0,0.0,0.5,3.0,0.0,2.8,33.9,0.1,7.3,WR,2018,16,Isaiah McKenzie,7.3
+29,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,0.4,2.3,0.0,3.0,33.6,0.1,7.3,WR,2018,16,Willie Snead IV,7.3
+30,Den,Mon 8:15,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.8,35.3,0.2,7.3,WR,2018,16,Marcell Ateman,7.3
+31,@SF,Sun 4:05,0/0,0.0,0.0,0.0,0.5,3.1,0.0,2.3,30.3,0.3,7.2,WR,2018,16,Anthony Miller,7.2
+32,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,0.4,2.1,0.0,2.2,34.1,0.2,7.2,WR,2018,16,John Brown,7.2
+33,GB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,32.4,0.2,7.1,WR,2018,16,Andre Roberts,7.1
+34,LAR,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,31.8,0.2,6.8,WR,2018,16,Trent Sherfield,6.8
+35,NYG,Sun 1:00,0/0,0.0,0.0,0.0,0.3,1.6,0.0,2.3,26.9,0.2,6.8,WR,2018,16,Zach Pascal,6.8
+36,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,31.3,0.2,6.7,WR,2018,16,Michael Crabtree,6.7
+37,@Ind,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.4,31.6,0.2,6.6,WR,2018,16,Cody Latimer,6.6
+38,Jax,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,28.4,0.3,6.6,WR,2018,16,DeVante Parker,6.6
+39,Min,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,31.5,0.1,6.5,WR,2018,16,Andy Jones,6.5
+0,@Sea,Sun 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,6.6,85.0,0.7,19.5,TE,2018,16,Travis Kelce,19.5
+1,Chi,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,80.0,0.3,15.7,TE,2018,16,George Kittle,15.7
+2,Hou,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,65.2,0.5,15.7,TE,2018,16,Zach Ertz,15.7
+3,NYG,Sun 1:00,0/0,0.0,0.0,0.0,0.3,1.0,0.0,4.9,54.5,0.7,14.7,TE,2018,16,Eric Ebron,14.7
+4,@Ind,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,49.8,0.3,11.7,TE,2018,16,Evan Engram,11.7
+5,Buf,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.9,54.9,0.4,11.6,TE,2018,16,Rob Gronkowski,11.6
+6,Den,Mon 8:15,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.3,54.5,0.3,11.6,TE,2018,16,Jared Cook,11.6
+7,@Car,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,4.3,40.3,0.4,10.5,TE,2018,16,Austin Hooper,10.5
+8,@NYJ,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.3,40.1,0.3,9.3,TE,2018,16,Jimmy Graham,9.3
+9,Cin,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,37.2,0.3,9.2,TE,2018,16,David Njoku,9.2
+10,@Det,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,33.1,0.3,8.7,TE,2018,16,Kyle Rudolph,8.7
+11,@NO,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.2,34.4,0.3,8.2,TE,2018,16,Vance McDonald,8.2
+12,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.2,33.0,0.3,8.1,TE,2018,16,Cameron Brate,8.1
+13,@Ari,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,30.7,0.3,7.9,TE,2018,16,Gerald Everett,7.9
+14,GB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.8,34.9,0.2,7.5,TE,2018,16,Chris Herndon,7.5
+15,Atl,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,31.0,0.2,7.5,TE,2018,16,Ian Thomas,7.5
+16,@SF,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,29.8,0.3,7.2,TE,2018,16,Trey Burton,7.2
+17,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,31.0,0.2,7.1,TE,2018,16,C.J. Uzomah,7.1
+18,TB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,28.3,0.2,6.9,TE,2018,16,Blake Jarwin,6.9
+19,Pit,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,26.1,0.3,6.8,TE,2018,16,Benjamin Watson,6.8
+20,LAR,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,26.2,0.2,6.1,TE,2018,16,Ricky Seals-Jones,6.1
+21,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,27.9,0.1,6.0,TE,2018,16,Jeremy Sprinkle,6.0
+22,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,25.1,0.2,5.9,TE,2018,16,Matt LaCosse,5.9
+23,Hou,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.1,23.7,0.2,5.7,TE,2018,16,Dallas Goedert,5.7
+24,Min,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.4,25.4,0.1,5.7,TE,2018,16,Levine Toilolo,5.7
+25,@NE,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,23.0,0.1,5.2,TE,2018,16,Charles Clay,5.2
+26,Bal,Sat 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,19.3,0.2,5.1,TE,2018,16,Antonio Gates,5.1
+27,@Sea,Sun 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,19.2,0.2,4.9,TE,2018,16,Demetrius Harris,4.9
+28,Jax,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,18.4,0.2,4.8,TE,2018,16,Mike Gesicki,4.8
+29,@NO,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,20.6,0.1,4.6,TE,2018,16,Jesse James,4.6
+30,KC,Sun 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,17.0,0.2,4.6,TE,2018,16,Ed Dickson,4.6
+31,@Mia,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.9,18.6,0.1,4.3,TE,2018,16,James O'Shaughnessy,4.3
+32,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.6,17.3,0.1,4.1,TE,2018,16,Brian Parker,4.1
+33,@Ari,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,15.4,0.1,3.8,TE,2018,16,Tyler Higbee,3.8
+34,KC,Sun 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,13.3,0.2,3.8,TE,2018,16,Nick Vannett,3.8
+35,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,16.1,0.1,3.7,TE,2018,16,Jordan Thomas,3.7
+36,Bal,Sat 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,14.0,0.2,3.7,TE,2018,16,Virgil Green,3.7
+37,NYG,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,14.1,0.2,3.6,TE,2018,16,Mo Alie-Cox,3.6
+38,Wsh,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,15.2,0.1,3.6,TE,2018,16,MyCole Pruitt,3.6
+39,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,16.5,0.1,3.5,TE,2018,16,Mark Andrews,3.5
+0,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,15.5,0.1,3.4,TE,2018,16,Ryan Griffin,3.4
+1,GB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,13.7,0.1,3.3,TE,2018,16,Jordan Leggett,3.3
+2,Wsh,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,14.2,0.1,3.2,TE,2018,16,Anthony Firkser,3.2
+3,Min,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,13.0,0.1,3.2,TE,2018,16,Luke Willson,3.2
+4,@SF,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,11.9,0.1,3.0,TE,2018,16,Adam Shaheen,3.0
+5,@NYJ,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,12.0,0.1,3.0,TE,2018,16,Lance Kendricks,3.0
+6,@NE,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,13.9,0.1,3.0,TE,2018,16,Jason Croom,3.0
+7,@Mia,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,13.5,0.1,3.0,TE,2018,16,Blake Bell,3.0
+8,@Ten,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,13.5,0.0,2.9,TE,2018,16,Matt Flanagan,2.9
+9,TB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,11.5,0.1,2.9,TE,2018,16,Dalton Schultz,2.9
+10,@Phi,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,11.6,0.1,2.9,TE,2018,16,Jordan Akins,2.9
+11,Atl,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,12.0,0.1,2.7,TE,2018,16,Chris Manhertz,2.7
+12,Jax,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.5,0.1,2.7,TE,2018,16,Nick O'Leary,2.7
+13,Wsh,Sat 4:30,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,11.5,0.1,2.7,TE,2018,16,Luke Stocker,2.7
+14,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,9.5,0.1,2.7,TE,2018,16,Nick Boyle,2.7
+15,Pit,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,9.8,0.1,2.5,TE,2018,16,Dan Arnold,2.5
+16,Pit,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,8.6,0.1,2.5,TE,2018,16,Josh Hill,2.5
+17,Chi,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,10.7,0.1,2.3,TE,2018,16,Garrett Celek,2.3
+18,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,9.5,0.1,2.2,TE,2018,16,Matt Lengel,2.2
+19,@Car,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,8.3,0.1,2.0,TE,2018,16,Logan Paulsen,2.0
+20,LAR,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,7.7,0.1,1.9,TE,2018,16,Jermaine Gresham,1.9
+21,@Dal,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,8.0,0.1,1.9,TE,2018,16,Antony Auclair,1.9
+22,@Ind,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,7.7,0.1,1.8,TE,2018,16,Rhett Ellison,1.8
+23,Den,Mon 8:15,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,7.1,0.1,1.7,TE,2018,16,Lee Smith,1.7
+24,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,0.2,0.7,0.0,0.5,5.3,0.0,1.3,TE,2018,16,Hayden Hurst,1.3
+25,Cin,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,4.7,0.1,1.2,TE,2018,16,Darren Fells,1.2
+26,TB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,4.7,0.0,1.2,TE,2018,16,Rico Gathers,1.2
+27,Den,Mon 8:15,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,4.9,0.0,1.1,TE,2018,16,Derek Carrier,1.1
+28,@NE,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,4.4,0.0,1.0,TE,2018,16,Logan Thomas,1.0
+29,@Det,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,3.9,0.0,0.9,TE,2018,16,Tyler Conklin,0.9
+30,@NO,Sun 4:25,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,3.2,0.0,0.8,TE,2018,16,Xavier Grimble,0.8
+31,@Car,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,2.7,0.0,0.7,TE,2018,16,Eric Saubert,0.7
+32,Cin,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,2.7,0.0,0.6,TE,2018,16,Seth DeValve,0.6
+33,@LAC,Sat 8:20,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,2.6,0.0,0.6,TE,2018,16,Maxx Williams,0.6
+34,@SF,Sun 4:05,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,2.4,0.0,0.6,TE,2018,16,Ben Braunecker,0.6
+35,@Det,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,2.4,0.0,0.6,TE,2018,16,David Morgan,0.6
+36,@Oak,Mon 8:15,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,2.4,0.0,0.6,TE,2018,16,Temarrick Hemingway,0.6
+37,@Cle,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,2.5,0.0,0.6,TE,2018,16,Jordan Franks,0.6
+38,GB,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,2.3,0.0,0.5,TE,2018,16,Eric Tomlinson,0.5
+39,Jax,Sun 1:00,0/0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,2.0,0.0,0.5,TE,2018,16,Durham Smythe,0.5
